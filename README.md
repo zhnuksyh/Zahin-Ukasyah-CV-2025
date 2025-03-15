@@ -6,3 +6,8 @@ I’ve held various leadership roles, including Exco Student Welfare of the Stud
 My technical journey includes working on diverse projects such as MotionHive’s PECE app, SL Sek Integrasi Al-Alusi’s systems, and personal websites like syahfolio, syahplant, and syahtravel. I also designed the MJIIT Lab Booking System prototype, showcasing my dedication to creating meaningful and impactful digital experiences.
 
 Balancing academic, technical, and leadership pursuits has been an enriching journey. As a Maybank Scholar, I am driven by the desire to excel in my field while contributing to the communities around me by developing innovative, user-centered solutions that make a difference.
+
+![1](https://github.com/user-attachments/assets/552f0711-dc20-4bfa-a3db-4e5fc96bb375)
+![2](https://github.com/user-attachments/assets/d70987b5-94ba-49c7-a0b5-769114abdf82)
+![3](https://github.com/user-attachments/assets/d48c8e24-9d24-432d-bef2-f681a7dd06a3)
+
