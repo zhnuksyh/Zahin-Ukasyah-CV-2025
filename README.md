@@ -1,10 +1,12 @@
 # Zahin-Ukasyah-CV-2025
-Hey, I'm Zahin Ukasyah. I'm a strategist who enjoys problem-solving, design, and research. ♟️ I play chess, where every move requires precision—just like in my work as a Frontend Developer, UI/UX Designer, and Graphic Designer. I also work as a Research Assistant at my university, diving into data, analysis, and insights to contribute to meaningful projects. 🧑‍💻
+Hey, I'm Zahin Ukasyah, A Strategist. I enjoy solving the puzzle of life, where I found meaning in connecting dots and relevance in everything I learnt. My hobbies are pretty boring; my times are often filled with Chess, Jogging, Coding, Calisthenic, Escape Room, Reading, Listening Music, Watching Movies, Precision Shooting and Analyzing Data. 
 
-Beyond academics and tech, I stay active with badminton 🏸, running 🏃, and weightlifting 🏋️. Music is also a part of my life, whether I’m playing 🎹 or just listening 🎧. I enjoy learning, creating, and connecting with like-minded people, always open to new ideas and collaborations!
+I'm also into Psychology, Philosophy and AI-relevance findings, especially the thrive in achieving ASI. I think I'm quite approachable haha, so feel free to ask me anything if there's something I did that piqued your interest.
 
-![12_6](https://github.com/user-attachments/assets/837c8022-5f24-482a-8768-dc9caecd648d)
-![12_6 (2)](https://github.com/user-attachments/assets/58f0210a-cbfc-4eff-b9ba-ac8497c12e0a)
+Recently I'm planning to build my own Tech Startup, but I will keep details as a secret for now haha.
+
+<img width="1414" height="2000" alt="Page 1" src="https://github.com/user-attachments/assets/3788277a-c053-4017-8cee-ac7ad16e0319" />
+<img width="1414" height="2000" alt="Page 2" src="https://github.com/user-attachments/assets/9a902540-027a-4112-8cba-a359b077f0fe" />
 
 
 
